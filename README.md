@@ -11,6 +11,6 @@ Para acessar os serviços:
 
 ## Próximas atualizações
 
-- [ ] PostgreSQL
-- [ ] RabbitMQ ou Apache Kafka
+- [X] PostgreSQL
+- [X] RabbitMQ ou Apache Kafka
 - [ ] Traefik
