@@ -1,0 +1,6 @@
+redis
+fastapi
+requests
+simplejson
+uvicorn
+bs4
